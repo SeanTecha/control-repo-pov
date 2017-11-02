@@ -34,6 +34,7 @@ mod 'stahnma-epel', '1.2.2'
 mod 'herculesteam-augeasproviders_core', '2.1.3'
 mod 'herculesteam-augeasproviders_ssh', '2.5.0'
 mod 'liamjbennett-win_facts', '0.0.2'
+mod 'beersy-pe_code_manager_easy_setup', '1.0.0'
 
 # Module Content from git
 
