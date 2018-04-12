@@ -1,1 +1,1 @@
-Starter control-repo for Puppet POV.
+Starter control-repo for Puppet POV
