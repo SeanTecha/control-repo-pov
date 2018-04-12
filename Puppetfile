@@ -35,6 +35,7 @@ mod 'herculesteam-augeasproviders_core', '2.1.3'
 mod 'herculesteam-augeasproviders_ssh', '2.5.0'
 mod 'liamjbennett-win_facts', '0.0.2'
 mod 'beersy-pe_code_manager_easy_setup', '2.0.2'
+mod 'google-cloud', '0.3.0'
 
 # Module Content from git
 
