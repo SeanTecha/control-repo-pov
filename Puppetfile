@@ -37,6 +37,7 @@ mod 'herculesteam-augeasproviders_ssh', '2.5.0'
 mod 'liamjbennett-win_facts', '0.0.2'
 mod 'beersy-pe_code_manager_easy_setup', '2.0.2'
 mod 'google-gcompute', '0.2.1'
+mod 'google-gcontainer', '0.2.0'
 mod 'google-gauth', '0.2.1'
 
 # Module Content from git
